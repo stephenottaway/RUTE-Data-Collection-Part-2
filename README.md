@@ -1,1 +1,1 @@
-# RUTE-Data-Collection-Part-2
+Collecting wind vane, anemometer and strain gauge data with an ESP32, then HTTP posting that data to a non-relational JSON database over WiFi for continuous monitoring. Analyzing sensor data to control the winch force and blume position of the solar panel system.
