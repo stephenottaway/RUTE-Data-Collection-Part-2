@@ -1,9 +1,5 @@
-void setup() {
-  // put your setup code here, to run once:
+#include <WiFi.h>
+#include <HTTPClient.h>
+#include <Arduino_JSON.h>
 
-}
 
-void loop() {
-  // put your main code here, to run repeatedly:
-
-}
